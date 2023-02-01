@@ -1,0 +1,15 @@
+{
+  "name": "hfh-footnotes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/index.js",
+  "scripts": {
+    "start": "wp-scripts start",
+    "build": "wp-scripts build"
+  },
+  "author": "Matthias Nötzli",
+  "license": "GPL-2.0",
+  "devDependencies": {
+    "@wordpress/scripts": "^25.3.0"
+  }
+}
