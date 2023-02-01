@@ -4,7 +4,8 @@
  * Plugin Name:     HfH Footnotes
  * Description:     Adds Footnote button to the WP Editor
  * Author:          Matthias Nötzli
- * Author URI:      https://github.com/matthias-noetzli
+ * Copyright: © 2023 HfH
+ * License: GPLv2
  * Text Domain:     hfh-footnotes
  * Domain Path:     /languages
  * Version:         1.0.0
