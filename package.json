@@ -5,7 +5,8 @@
   "main": "build/index.js",
   "scripts": {
     "start": "wp-scripts start",
-    "build": "wp-scripts build"
+    "build": "wp-scripts build",
+    "plugin-zip": "wp-scripts plugin-zip"
   },
   "author": "Matthias Nötzli",
   "license": "GPL-2.0",
