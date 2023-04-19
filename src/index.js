@@ -27,8 +27,7 @@ const Footnote = (BlockEdit) => {
                 select("core/block-editor").getSelectionEnd();
               const position = selectionEnd.offset;
               const footnoteContent = prompt(promptLabel);
-              console.log(getLocaleData());
-              if (!content) {
+              if (!footnoteContent) {
                 return;
               }
               const footnoteShortcode = `[hfh_footnote]${footnoteContent}[/hfh_footnote]`;
